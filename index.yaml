@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-23T20:20:15.175619+08:00"
+    created: "2025-05-23T20:44:30.719902+08:00"
     description: A Helm chart for Kubernetes
     digest: 0a75d582381757ea563f845d38fa4af02b3197c8544add747d525b5f73c24fc8
     name: mychart
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://wivw0306.github.io/helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-23T20:20:15.174218+08:00"
+  mychart1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-23T20:44:30.721182+08:00"
+    description: A Helm chart for Kubernetes
+    digest: b00284ed5e111421132c73a138666525ea0ed7236aaf3d897bb7baa0ea847046
+    name: mychart1
+    type: application
+    urls:
+    - https://wivw0306.github.io/helm-charts/mychart1-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-23T20:44:30.718355+08:00"
